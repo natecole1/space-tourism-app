@@ -11,8 +11,9 @@ Users should be able to:
 - View each page and be able to toggle between the tabs to see new information
 
 ### Screenshot
+<img width="690" height="475" alt="Screen Shot 2026-02-02 at 5 11 30 PM" src="https://github.com/user-attachments/assets/031b25ff-51b2-4a42-bc43-17f4f49c370e" />
 
-<img src="/Users/nate/Documents/Document/javascript_projects/vanilla_javascript/space_tourism_app/Screen Shot 2026-02-02 at 5.11.30 PM.png"/>
+
 
 ### Built with
 
