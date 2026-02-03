@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Screenshot
 
-[Landing page screenshot](<Screen Shot 2026-02-02 at 5.11.30 PM.png>)
+<img src="/Users/nate/Documents/Document/javascript_projects/vanilla_javascript/space_tourism_app/Screen Shot 2026-02-02 at 5.11.30 PM.png"/>
 
 ### Built with
 
